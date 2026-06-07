@@ -1,0 +1,6 @@
+{
+  "name": "Filename Parser Table",
+  "description": "An interactive utility to parse uploaded file names, split text columns on spaces, and export directly as a CSV or Clipboard-pasteable structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
